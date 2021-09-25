@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "bootstrap-v5 project responive web design ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "bootstrap-v5",
+    "Bootstrap",
+    "sass",
+    "learn-sass",
+    "learn-bootstrap"
+  ],
+  "author": "Akshay Kumar Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.3.5",
+    "bootstrap": "^5.1.1",
+    "postcss-cli": "^9.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.42.1"
+  }
+}
