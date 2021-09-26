@@ -31,4 +31,9 @@ $ npm run compile:sass
 ### Thanks to 
 > freeCodeCamp.org 
 
-> Image provider `manypixels` [link](www.manypixels.co/gallery)
+> Image provider `manypixels` [link](https://www.manypixels.co/gallery)
+
+> waves background from [link](https://getwaves.io/)
+
+> GlightBox for pop up video [link](https://biati-digital.github.io/glightbox/)
+
