@@ -23,3 +23,8 @@ $ npm run compile:sass
 $ npm run compile:sass
 ```
 ---
+
+### Thanks to 
+> freeCodeCamp.org 
+
+> Image provider `manypixels` [link](www.manypixels.co/gallery)
