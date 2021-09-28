@@ -23,6 +23,8 @@ $ npm run compile:sass
 $ npm run compile:sass
 ```
 ---
+Insert the file structure !
+---
 ### Error chances
 > If you will use vs code `Watch Sass` tool to convert your to css then it will generate error in `fontawesome`. so, handle that and find bug & resolve very fluently
 >> bug will be in mainly `length and width` of fontawesome file so you can also resolve using `new node module` or go through `$ npm run compile:sass` errors
